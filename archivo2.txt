@@ -2,7 +2,13 @@ peo2
 caca2
 chota2
 pichi
+<<<<<<< HEAD
 pito
 toto
 culo
 culo2
+=======
+toto
+culo
+culo2
+>>>>>>> ramab
